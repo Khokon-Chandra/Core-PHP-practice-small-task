@@ -1,0 +1,30 @@
+*{margin:0;padding:0;}
+.container-fluid{
+	width: 850px;
+	height: auto;
+	margin:20px auto;
+	background: yellow;
+}
+input{width: 150px;padding-left:10px;}
+table{float: left; margin: 0 auto;padding: 15px;}
+td{
+	padding:20px;
+	font-size: 20px;
+	color: #145;
+	background: rgba(0,0,0,0.1);
+}
+th{text-align: center;background: orange;
+color:#145; padding:15px;}
+
+.list{float: right;}
+
+.output{
+	
+	text-align: center;
+	height:250px;
+	width:820px;
+	margin:0px auto;
+	margin-top:80%;
+	background: orange;
+
+}

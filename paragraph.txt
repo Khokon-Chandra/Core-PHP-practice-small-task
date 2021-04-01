@@ -1,0 +1,3 @@
+Hi I'm Khokon Chandra Barman.
+This is my first file handaling by php.
+I can use fopen and fread function.
